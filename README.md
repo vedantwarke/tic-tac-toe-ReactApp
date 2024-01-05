@@ -1,3 +1,5 @@
+This application is a Tic-Tac-Toe game developed using React 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
